@@ -21,3 +21,4 @@ https://trello.com/b/yhzf6OL4/fitness-app
 
 Wireframes:
 https://drive.google.com/file/d/1FA7y1jHancigHErDK2zZmqp014zcx_Vq/view
+https://drive.google.com/file/d/1zNzXmZ9WOM4c64B3OHb9-7swGUrS3UeW/view
