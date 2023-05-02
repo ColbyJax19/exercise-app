@@ -17,3 +17,7 @@ https://lucid.app/lucidchart/564c8d10-70c1-46b1-8158-aade36b19419/edit?view_item
 
 Trello Board:
 https://trello.com/b/yhzf6OL4/fitness-app
+
+
+Wireframes:
+https://drive.google.com/file/d/1FA7y1jHancigHErDK2zZmqp014zcx_Vq/view
